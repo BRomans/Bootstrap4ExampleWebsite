@@ -1,0 +1,33 @@
+{
+  "name": "gamelayout",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 example webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRomans/Bootstrap4ExampleWebsite.git"
+  },
+  "keywords": [
+    "Bootstrap4"
+  ],
+  "author": "Michele Romani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRomans/Bootstrap4ExampleWebsite/issues"
+  },
+  "homepage": "https://github.com/BRomans/Bootstrap4ExampleWebsite#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.3",
+    "tether": "^1.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
